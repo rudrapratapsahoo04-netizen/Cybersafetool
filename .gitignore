@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+reports/*
+!.gitkeep
+.venv/
+venv/
+.env
