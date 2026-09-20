@@ -322,7 +322,7 @@ SUSPICIOUS_WORDS = {
 }
 
 SHORTENERS = {
-    "bit.ly", "tinyurl.com", "t.co", "is.gd", "ow.ly"
+    "bit.ly", "tinyurl.com", "t.co", "is.gd", "ow.ly","cloudfrail.com","goo.gl","buff.ly"
 }
 
 
