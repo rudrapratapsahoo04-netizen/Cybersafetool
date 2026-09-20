@@ -33,7 +33,7 @@ step-4 python main.py
 12. Phishing Awareness Simulator
 13. Security Report Generator
 
-https://github.com/rudrapratapsahoo04-netizen/Cybersafetool/blob/718d111e4e6f0f40073828358998c576f7cf3a40/Screenshot%202026-09-20%20172147.png
+https://github.com/rudrapratapsahoo04-netizen/Cybersafetool/blob/main/Screenshot%202026-09-20%20172147.png?raw=true
 
 ## Safety
 
