@@ -35,6 +35,8 @@ step-4 python main.py
 
 ![image alt](https://github.com/rudrapratapsahoo04-netizen/Cybersafetool/blob/8b6c6b5a50063d2d641317f979bdedd4afec748a/Screenshot%202026-09-20%20172147.png)
 
+![image alt](https://github.com/rudrapratapsahoo04-netizen/Cybersafetool/blob/554beb5d28a745c2391f67ccfc6b5e0dce60125e/Screenshot%202026-09-20%20172249.png)
+
 ## Safety
 
 Use active scanning only on systems you own or have explicit permission to test.
