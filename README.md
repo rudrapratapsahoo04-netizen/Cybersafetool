@@ -9,14 +9,13 @@ and a local phishing-awareness simulator.
 ## Requirements
 
 Python 3.10+ recommended.
+apt install python 
+Step-1 git clone https://github.com/rudrapratapsahoo04-netizen/Cybersafetool.git
+Step-2 cd Cybersafetool
+Step-3 cd reports
+step-4 python main.py
 
-Install optional dependency:
 
-    pip install -r requirements.txt
-
-Run:
-
-    python main.py
 
 ## Modules
 
@@ -38,3 +37,7 @@ Run:
 
 Use active scanning only on systems you own or have explicit permission to test.
 The phishing simulator does not collect, save, or transmit credentials.
+
+
+
+
